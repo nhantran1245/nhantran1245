@@ -18,7 +18,7 @@
 2. [Skills](#skills)
 3. [Experience](#experience)
    - [Software Engineer @ HD Bank](#hdbank)
-   - [Software Engineer @ TMA Solutions](#tma-wm)
+   - [Software Engineer @ CMC Global](#tma-wm)
    - [Full-stack Developer @ TMA Solutions](#tma-devops)
    - [Software Engineer @ TMA Solutions](#tma-ims)
    - [Software Engineer Intern @ GEEKUp](#geekup)
