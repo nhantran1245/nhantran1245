@@ -75,7 +75,6 @@ Strong focus on data management, performance optimization, and delivering except
 ## Experience
 
 > _6 years across 5 roles. Click any role to expand._
-> To show a company logo, add `<img src="LOGO_URL" width="18" align="absmiddle">` before the company name in its `<summary>`.
 
 <a id="hdbank"></a>
 <details open>
